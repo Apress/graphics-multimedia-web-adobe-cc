@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Graphics and Multimedia for the Web with Adobe Creative Cloud: Navigating the Adobe Software Landscape*](https://www.apress.com/9781484241011) by Jennifer Harder (Apress, 2018).
+This repository accompanies [*Graphics and Multimedia for the Web with Adobe Creative Cloud: Navigating the Adobe Software Landscape*](https://www.apress.com/9781484241011) by Jennifer Harder (Apress, 2020).
 
 [comment]: #cover
 ![Cover image](9781484238226.jpg)
